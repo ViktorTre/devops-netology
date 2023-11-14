@@ -1,6 +1,5 @@
 # devops-netology
-1 line
-2 line
+Changed for fix branch
 
 не подвержены системе контроля версий
 1. все файлы и каталоги находящиеся после каталога .terraform
